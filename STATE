@@ -1,3 +1,7 @@
+//Subtituto a la herencia.
+//Ejempĺo parque de diversiones.
+
+
 //Estado Pedidopublic abstract class EstadoPedido
 {
 protected Pedido pedido;
